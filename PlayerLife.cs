@@ -16,6 +16,7 @@ public class PlayerLife : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+      //Busca O Animtaor Anexado Ao Player Com Este Script
       anim = GetComponent<Animator>();
     }
 
