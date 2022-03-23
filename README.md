@@ -14,7 +14,7 @@ This project will be the first one that I will try to carry out. Also, I will us
 
 <h1 align="center">Build With</h1>
 
-This project is being done with the Unity Game Engine And with the C# Language.
+This project is being done with the Unity Game Engine And with the C# Language. And also with the help of [Gazzana](https://github.com/Gazzana)
 
 <h1 align="center">Inside the scripts</h1>
 Each script file has notes explaining what each line of code does, If you don't understand the explanation, please contact me by email.
