@@ -4,6 +4,7 @@
 - Summary
 1. [About The Project](https://github.com/Knevitzzzz/The-Forest-Samurai#about-the-project)
 2. [Build With](https://github.com/Knevitzzzz/The-Forest-Samurai/blob/main/README.md#build-with)
+3. [Contact]()
 
 <h1 align="center">About The Project</h1>
 
@@ -16,4 +17,8 @@ This project will be the first one that I will try to carry out. Also, I will us
 This project is being done with the Unity Game Engine And with the C# Language.
 
 <h1 align="center">Inside the scripts</h1>
-Each script file has notes explaining what each line of code does
+Each script file has notes explaining what each line of code does, If you don't understand the explanation, please contact me by email.
+
+<h1 align="center">Contact</h1>
+knevitzzz@gmail.com
+
