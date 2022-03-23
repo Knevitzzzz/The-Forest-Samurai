@@ -1,5 +1,4 @@
 <h1 align="center">The Forest Samurai</h1>
-<h3 align="center">My New Big Project</h3>
 
 - Summary
 1. [About The Project](https://github.com/Knevitzzzz/The-Forest-Samurai#about-the-project)
