@@ -40,7 +40,10 @@ public class PlayerAttack : MonoBehaviour
       //Acerta Os Inimigos E Os Causa Dano
       foreach (Collider2D enemy in hitEnemies)
       {
+        //Determina Que O Inimigo Foi Morto
         Debug.Log("We Hit" + enemy.name); 
+        
+        //Mata O Inimigo
         FindObjectOfType<EnemyLife>().enemyLife -= 100;
       }
     }
