@@ -15,5 +15,5 @@ This project will be the first one that I will try to carry out. Also, I will us
 
 This project is being done with the Unity Game Engine And with the C# Language.
 
-<h1 align="center">Inside the scripts</h1>
+<h3 align="center">Inside the scripts</h3>
 Each script file has notes explaining what each line of code does
