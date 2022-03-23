@@ -14,3 +14,6 @@ This project will be the first one that I will try to carry out. Also, I will us
 <h1 align="center">Build With</h1>
 
 This project is being done with the Unity Game Engine And with the C# Language.
+
+<h1 align="center">Inside the scripts</h1>
+Each script file has notes explaining what each line of code does
