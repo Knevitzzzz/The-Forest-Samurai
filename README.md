@@ -4,7 +4,7 @@
 - Summary
 1. [About The Project](https://github.com/Knevitzzzz/The-Forest-Samurai#about-the-project)
 2. [Build With](https://github.com/Knevitzzzz/The-Forest-Samurai/blob/main/README.md#build-with)
-3. [Contact]()
+3. [Contact](https://github.com/Knevitzzzz/The-Forest-Samurai/blob/main/README.md#contact)
 
 <h1 align="center">About The Project</h1>
 
