@@ -5,7 +5,7 @@
 1. [About The Project](https://github.com/Knevitzzzz/The-Forest-Samurai#about-the-project)
 2. [Build With](https://github.com/Knevitzzzz/The-Forest-Samurai/blob/main/README.md#build-with)
 
-align="center">About The Project</h1>
+<h1 align="center">About The Project</h1>
 
 This project is intended to become a 2D platform game that involves samurais and forests.
 The game will have mechanics similar to titles like "Hollow Knight", "Katana Zero" among others.
